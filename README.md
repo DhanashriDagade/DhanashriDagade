@@ -31,7 +31,7 @@ I’m a passionate tech enthusiast who thrives at the intersection of **web deve
 
 - 🎓 [**FundFusion**](https://github.com/DhanashriDagade/FundFusion) – MERN stack crowdfunding platform for children’s education.  
 - 🏢 [**Project Management System**](https://github.com/DhanashriDagade/ProjectManagementSystem) – Spring Boot + React-based role-based dashboard app.  
-- ✨ Portfolio Site: *Coming Soon via GitHub Pages*
+
 
 ---
 
@@ -46,7 +46,7 @@ I’m a passionate tech enthusiast who thrives at the intersection of **web deve
 ### 📫 Let’s Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/dhanashri-dagade/)
-- ✉️ Email: *dhanashridagade123@gmail.com*
+- ✉️ Email: *dhanashridagade50@gmail.com*
 - 🌐 [Portfolio](https://dhanashridagade.github.io/Portfolio-website/)
 
 ---
