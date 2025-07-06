@@ -30,7 +30,9 @@ I’m a passionate tech enthusiast who thrives at the intersection of **web deve
 ### 📌 Featured Projects
 
 - 🎓 [**FundFusion**](https://github.com/DhanashriDagade/FundFusion) – MERN stack crowdfunding platform for children’s education.  
-- 🏢 [**Project Management System**](https://github.com/DhanashriDagade/ProjectManagementSystem) – Spring Boot + React-based role-based dashboard app.  
+- 🏢 [**Project Management System**](https://github.com/DhanashriDagade/ProjectManagementSystem) – Spring Boot + React-based role-based dashboard app.
+- 🏢 [**Student Resutt Management System**](https://github.com/DhanashriDagade/StudentResultManagementSystem) – Asp.net + React-based role-based dashboard app.  
+
 
 
 ---
@@ -39,7 +41,6 @@ I’m a passionate tech enthusiast who thrives at the intersection of **web deve
 
 - AI tools, ChatGPT APIs, Prompt Engineering  
 - Freelance Web Design Projects  
-- Blockchain fundamentals and secure web integration
 
 ---
 
